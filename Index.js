@@ -20,4 +20,5 @@ let alumnos = [
     {nombre: "Agustina", apellido: "Romano", dni: 48375887, anio: 3, curso: "B", nota: 9,},
 
     ]
+    function capitalizar ()
     
